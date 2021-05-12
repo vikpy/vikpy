@@ -2,7 +2,7 @@
 
 Glad that you are here!😍 
 
-I am a Data Scientist with experience in wide variety of data problems. My primary coding language is Python and you can reach out to me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vikraant-pai-5086a39b/).
+I am a Data Scientist with experience in wide variety of data problems. My primary coding language is Python and you can reach out to me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vikraant-pai-5086a39b/). Here on Github to learn and explore. 
 
 <!--
 **vikpy/vikpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
